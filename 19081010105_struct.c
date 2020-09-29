@@ -13,7 +13,7 @@ void main(){
 	
 	//input data
 	printf("=================================\n");
-	printf("Berapa data siswa yang ingin anda masukkan?");
+	printf("Berapa data siswa yang ingin anda masukkan? ");
 	scanf("%d",&input);
 	system("cls");
 	for(i=1;i<=input;i++){
